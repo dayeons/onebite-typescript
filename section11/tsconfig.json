@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "allowJs": true,
+    "esModuleInterop": true, // default 내보낸 값이 없는 모듈로부터 값 부를때
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}
